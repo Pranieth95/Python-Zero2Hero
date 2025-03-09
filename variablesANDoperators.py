@@ -1,0 +1,3 @@
+name = "Pranieth"
+
+print (name)
