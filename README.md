@@ -13,5 +13,6 @@ Welcome to the Python Zero2Hero journey! This repository documents the progress 
 ✅ GUI Development – Building applications with PyQt  
 ✅ And much more!  
 
-🚀 Let's Code & Learn!  
+🚀 Let's Code & Learn!    
+
 Stay tuned as I update this repo with new concepts, projects, and challenges!
