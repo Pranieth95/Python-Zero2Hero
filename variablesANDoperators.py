@@ -1,4 +1,4 @@
-name = "Pranieth"
+name = "Pranieth "
 print (name) #print a string variable
 
 a = 10
@@ -12,7 +12,7 @@ print (a ** b) # Result of a to the power b
 print ( a // b) # Returns only the integer result of a devided by b
 
 age =14
-young = age < 18
+young = age < 18 
 print (young) #Return a boolean value which means true or false
 
 x = True
